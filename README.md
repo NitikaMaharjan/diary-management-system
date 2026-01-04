@@ -30,7 +30,7 @@ To develop a user-friendly Diary Management System that allows users to efficien
 
 ## Use Case Diagram
 
-<img src="./img/use-case.jpg" alt="Use Case Diagram" width="400"/>
+<img src="./img/use-case.JPG" alt="Use Case Diagram" width="400"/>
 
 ## Screenshots
 
